@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="285b7fd6-a99e-4555-91a0-8f3d2f6f8111" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cFtRSgHsFvawhPCResL16wcsny" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Kotlin1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Kotlin1Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="285b7fd6-a99e-4555-91a0-8f3d2f6f8111" name="Default Changelist" comment="" />
+      <created>1590136160740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590136160740</updated>
+      <workItem from="1590136163493" duration="1201000" />
+      <workItem from="1590149657628" duration="165000" />
+      <workItem from="1590150916216" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="123" key="#Project_Structure" timestamp="1590136209611">
+      <screen x="0" y="23" width="1792" height="1037" />
+    </state>
+    <state x="384" y="123" key="#Project_Structure/0.23.1792.1037@0.23.1792.1037" timestamp="1590136209611" />
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom" timestamp="1590150600999">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1590150600999" />
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1590138895304" />
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1590136511423" />
+    <state width="1358" height="270" key="GridCell.Tab.0.center" timestamp="1590150600998">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1590150600998" />
+    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1590138895301" />
+    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1590136511422" />
+    <state width="1358" height="270" key="GridCell.Tab.0.left" timestamp="1590150600998">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1590150600998" />
+    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1590138895301" />
+    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1590136511422" />
+    <state width="1358" height="270" key="GridCell.Tab.0.right" timestamp="1590150600998">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1590150600998" />
+    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1590138895304" />
+    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1590136511423" />
+    <state x="238" y="111" key="SettingsEditor" timestamp="1590150948575">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="238" y="111" key="SettingsEditor/0.23.1792.1022@0.23.1792.1022" timestamp="1590150948575" />
+    <state x="238" y="112" key="SettingsEditor/0.23.1792.1036@0.23.1792.1036" timestamp="1590138400933" />
+    <state x="118" y="213" key="new project wizard" timestamp="1590150997488">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="118" y="213" key="new project wizard/0.23.1792.1022@0.23.1792.1022" timestamp="1590150997488" />
+    <state x="118" y="216" key="new project wizard/0.23.1792.1036@0.23.1792.1036" timestamp="1590138891832" />
+    <state x="402" y="243" width="670" height="676" key="search.everywhere.popup" timestamp="1590138358430">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state x="402" y="243" width="670" height="676" key="search.everywhere.popup/0.23.1792.1036@0.23.1792.1036" timestamp="1590138358430" />
+  </component>
+</project>
